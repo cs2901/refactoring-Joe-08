@@ -1,6 +1,6 @@
-if (date.before(SUMMER_START) || date.after(SUMMER_END)) {
-  charge = quantity * winterRate + winterServiceCharge;
+if (date.isSummer()) {
+    charge = quantity * summerRate;
 }
 else {
-  charge = quantity * summerRate;
+    charge = quantity * winterRate + winterServiceCharge;
 }

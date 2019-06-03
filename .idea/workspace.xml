@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9684f028-068a-4f36-bc45-44b16d948142" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/composing/inline-method_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composing/inline-method_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/composing/split-temporary-variable_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composing/split-temporary-variable_before.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,14 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/composing/inline-method_before.java">
+        <entry file="file://$PROJECT_DIR$/src/composing/split-temporary-variable_before.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-              <folding>
-                <element signature="e#49#50#0" expanded="true" />
-                <element signature="e#102#103#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -40,6 +36,7 @@
         <option value="$PROJECT_DIR$/src/composing/extract-method_before.java" />
         <option value="$PROJECT_DIR$/src/composing/extract-variable_before.java" />
         <option value="$PROJECT_DIR$/src/composing/inline-method_before.java" />
+        <option value="$PROJECT_DIR$/src/composing/split-temporary-variable_before.java" />
       </list>
     </option>
   </component>
@@ -120,12 +117,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559572230415</updated>
-      <workItem from="1559572231868" duration="1356000" />
+      <workItem from="1559572231868" duration="1504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1356000" />
+    <option name="totallyTimeSpent" value="1504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-1" width="822" height="749" extended-state="6" />
@@ -173,9 +170,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/composing/split-temporary-variable_before.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/composing/extract-variable_before.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -198,6 +192,13 @@
             <element signature="e#49#50#0" expanded="true" />
             <element signature="e#102#103#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composing/split-temporary-variable_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>

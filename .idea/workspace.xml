@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9684f028-068a-4f36-bc45-44b16d948142" name="Default Changelist" comment="" />
+    <list default="true" id="9684f028-068a-4f36-bc45-44b16d948142" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/composing/extract-variable_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composing/extract-variable_before.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/composing/extract-variable_before.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="45">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -122,15 +124,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559572230415</updated>
-      <workItem from="1559572231868" duration="764000" />
+      <workItem from="1559572231868" duration="1092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="764000" />
+    <option name="totallyTimeSpent" value="1092000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="-1" width="1370" height="749" extended-state="6" />
+    <frame x="683" y="-1" width="685" height="749" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -138,7 +140,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29577464" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -190,8 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/composing/extract-variable_before.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
